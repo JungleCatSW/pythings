@@ -57,7 +57,7 @@ for device in device_manager.devices:
     #first row letter keys
     #tab
     device.fx.advanced.matrix[2, 0] = lightblue
-    //device.fx.advanced.matrix[2, 1] = lightblue
+    #device.fx.advanced.matrix[2, 1] = lightblue
     device.fx.advanced.matrix[2, 12] = lightblue
     device.fx.advanced.matrix[2, 13] = lightblue
     # caps
